@@ -11,7 +11,7 @@ const initdb = async () =>
       console.log('jate database created');
     },
   });
-
+  
 export const putDb = async (content) => {
 
   const jateDb = await openDB('jate', 1);
@@ -23,7 +23,6 @@ export const putDb = async (content) => {
   console.log ('data has been saved to DB', result);
   return request;
 }
-
 
 export const getDb = async () => {
 
