@@ -1,5 +1,6 @@
  # Text-Editor
   - WIlliam James
+   -(Heroku Deployment)[!https://text-editor-3795.herokuapp.com/]
   - https://github.com/williamj3795/Text-Editor
 
 
@@ -26,15 +27,14 @@
 
   ## Installation
   To install this apllication, please follow the steps below:
-  - `git clone` the repo to your local machine. To use this app, run the following command to install the dependencies: `npm install` Then run the following command: `node index.js`
+   `git clone` the repo to your local machine. 
+  To use this app, run the following command to install the dependencies: `npm install` Then run the following command:  
+  
+  `node index.js`
 
   ## Usage
 
   In order to use this app, Type the following command in your terminal: `npm start` Then open your internet browser and type http://localhost:3000/ to run this app.
-
-  ## Features
-
-  - 
 
   ## Test
 
