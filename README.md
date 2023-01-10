@@ -1,6 +1,6 @@
  # Text-Editor
   - WIlliam James
-   - (https://text-editor-3795.herokuapp.com/)[Heroku Link]
+   - [Heroku Link](https://text-editor-3795.herokuapp.com/)
   - https://github.com/williamj3795/Text-Editor
 
 
