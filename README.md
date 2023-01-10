@@ -28,9 +28,13 @@
   ## Installation
   To install this apllication, please follow the steps below:
    `git clone` the repo to your local machine. 
-  To use this app, run the following command to install the dependencies: `npm install` Then run the following command:  
+  To use this app, run the following command to install the dependencies: 
+ 
+ `npm install` 
   
-  `node index.js`
+  Then run the following command:  
+  
+  `npm start`
 
   ## Usage
 
@@ -46,7 +50,11 @@
 
   # Tech
 
-  - *HTML *CSS *Javascript *Node *ExpressJS
+  - HTML
+  - CSS 
+  - Javascript 
+  - Node 
+  - ExpressJS
 
   ## Questions
   if you have any questions about the repo, open an issue or contact me directly at Williamj3795@gmail.com.
